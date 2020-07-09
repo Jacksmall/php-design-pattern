@@ -2,7 +2,7 @@
 This is a php design pattern package
 
 # First
-Jacksmall\Singleton\SingletonPattern.php<br>
+<p style="color: red;">Jacksmall\Singleton\SingletonPattern.php</p><br>
 Singleton pattern:<br>
 1.The <strong>__construct()</strong> method prevent external creation of instances<br>
 2.The <strong>__clone()</strong> method prevent copying instances<br>
