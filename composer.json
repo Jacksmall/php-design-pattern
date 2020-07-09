@@ -1,0 +1,15 @@
+{
+  "name": "jack-small/php-design-pattern",
+  "description": "This is a php design pattern package",
+  "minimum-stability": "stable",
+  "license": "none",
+  "authors": [
+    {
+      "name": "chenkuan",
+      "email": "812254315@qq.com"
+    }
+  ],
+  "require": {
+    "php": "^7.2.5"
+  }
+}
